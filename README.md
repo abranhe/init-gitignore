@@ -63,7 +63,7 @@ Icon
 ...
 ```
 
-### Eg: macOS
+### Eg: Node
 
 ```js
 const initGitignore = require('init-gitignore');
