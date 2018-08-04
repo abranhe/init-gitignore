@@ -33,9 +33,8 @@ Often, you’ll have a class of files that you don’t want Git to automatically
 Read more about `.gitignore` files on the [manual page](https://git-scm.com/docs/gitignore).
 
 🙊 All `.gitignore` templates are from the Github Project: [gitignore](https://github.com/github/gitignore/).
-# Install
 
-### Eg: macOS
+# Install
 
 ```
 $ npm install init-gitignore
@@ -43,13 +42,15 @@ $ npm install init-gitignore
 
 # Usage
 
+### Eg: macOS
+
 ```js
 const initGitignore = require('init-gitignore');
 
 initGitignore.macOS();
 ```
 
-Result .gitignore
+Result **.gitignore**
 
 ```
 # General
@@ -70,7 +71,7 @@ const initGitignore = require('init-gitignore');
 initGitignore.Node();
 ```
 
-Result .gitignore
+Result **.gitignore**
 
 ```
 # Logs
