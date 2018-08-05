@@ -1,6 +1,6 @@
 {
   "name": "init-gitignore",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Because making git ignore files should be easier.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,8 @@
   ],
   "files": [
     "index.js",
-    "lib/"
+    "lib/",
+    "gitignore/"
   ],
   "author": {
     "name": "Carlos Abraham",
