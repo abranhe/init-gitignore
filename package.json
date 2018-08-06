@@ -1,6 +1,6 @@
 {
   "name": "init-gitignore",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Because making git ignore files should be easier.",
   "main": "index.js",
   "scripts": {
