@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/abranhe/init-gitignore/issues"
   },
-  "homepage": "https://github.com/abranhe/init-gitignore#readme"
+  "homepage": "https://github.com/abranhe/init-gitignore#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0"
+  }
 }
