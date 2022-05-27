@@ -33,6 +33,6 @@
   },
   "homepage": "https://github.com/abranhe/init-gitignore#readme",
   "dependencies": {
-    "fs-extra": "^7.0.0"
+    "fs-extra": "^8.0.0"
   }
 }
